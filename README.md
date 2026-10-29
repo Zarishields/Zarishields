@@ -2,7 +2,10 @@
 
 **Check if a sanitary pad is genuine and safe before you use it.**
 
-**Live demo:** https://YOUR-USERNAME.github.io/zarishields
+**Live demo: **
+https://zarishields.github.io
+/Zarishields/
+
 
 ## The problem
 
@@ -20,5 +23,4 @@ This repository holds a clickable prototype (`index.html`) that simulates these 
 
 ## Contact
 
-[Aliyu Zariyat Ojoma], Founder, Zarishields
-[zarishieldss@gmail.com]
+Aliyu Zariyat Ojoma, Founder, Zarishields zarishieldss@gmail.com
