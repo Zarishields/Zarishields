@@ -2,9 +2,7 @@
 
 **Check if a sanitary pad is genuine and safe before you use it.**
 
-**Live demo: **
-https://zarishields.github.io
-/Zarishields/
+**Live demo:** https://zarishields.github.io/Zarishields/
 
 
 ## The problem
